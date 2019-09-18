@@ -482,7 +482,7 @@ void MainWidget::paintGL()
     glDisable(GL_DEPTH_TEST);
     if(m_filespathname.size()<1)
     {
-       qDebug() <<"no src  222 jpg  init false";
+       qDebug() <<"no src 8788 jpg  init false";
        return;
     }
 
